@@ -1,7 +1,7 @@
 # Linea Deployment Scripts
 <br />
 
-This document aims to explain how to get started with deploying the Linea deployment scripts. There are several ways the scripts can be executed dependant on: 
+This document aims to explain how to get started with deploying the Linea deployment scripts. There are several ways the scripts can be executed depending on: 
 - If you're storing deployment variables in an environment file (.env)
 - If you plan to deploy an individual script which will deploy a single contract.
 - If you plan to deploy a chained deployment script that will include multiple contracts.
