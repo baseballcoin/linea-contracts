@@ -23,7 +23,7 @@ Setting `VERIFY_CONTRACT=true` will start the verifying stage after the contract
 
 ## Network Specific Variables
 
-Dependant on which network you are using, a specific network private key needs to be used, as well as the corresponding API Key or RPC URL.  Also, dependant on which network you choose, the block explorer used could be different, so the block explorer parameter name might need to be adjusted.  The following table highlights which private key variable will be used per network. Please use the variable that pertains to the network. e.g. for `linea_goerli` use `LINEA_GOERLI_PRIVATE_KEY` (`LINEA_GOERLI_PRIVATE_KEY=<key> INFURA_API_KEY=<key>`)  
+Depending on which network you are using, a specific network private key needs to be used, as well as the corresponding API Key or RPC URL.  Also, dependant on which network you choose, the block explorer used could be different, so the block explorer parameter name might need to be adjusted.  The following table highlights which private key variable will be used per network. Please use the variable that pertains to the network. e.g. for `linea_goerli` use `LINEA_GOERLI_PRIVATE_KEY` (`LINEA_GOERLI_PRIVATE_KEY=<key> INFURA_API_KEY=<key>`)  
 
 | Network       | Private key parameter name   | API Key / RPC URL | Block explorer parameter name |
 | ------------- | ----------------- | ---- | ----------------- | 
